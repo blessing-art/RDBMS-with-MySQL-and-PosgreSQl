@@ -1,3 +1,3 @@
 play
 
-where for practising
+for practising!
