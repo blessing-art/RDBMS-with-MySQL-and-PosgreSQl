@@ -1,4 +1,4 @@
-#Relational Database Querries
-##with
+# Relational Database Querries
+## with
 * MySQL
 * POsgreSQL
