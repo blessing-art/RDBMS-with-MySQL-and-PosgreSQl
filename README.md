@@ -1,3 +1,4 @@
-play
-
-for practising!
+#Relational Database Querries
+##with
+* MySQL
+* POsgreSQL
